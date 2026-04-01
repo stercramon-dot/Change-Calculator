@@ -1,0 +1,5 @@
+{
+  "name": "គិតលុយ - Cambodian Change Calculator",
+  "description": "An application to easily calculate customer change in both US Dollars (USD) and Cambodian Riel (KHR). Enter the amount due and the amount given to see the exact change, including a practical breakdown of bills and notes.",
+  "requestFramePermissions": []
+}
